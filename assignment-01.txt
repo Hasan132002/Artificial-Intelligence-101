@@ -1,0 +1,48 @@
+1. Temperature Classification:
+Write a program that takes an input temperature from the user and classifies it as:
+
+"Freezing" if below 0°C
+"Cold" if between 0°C and 15°C
+"Moderate" if between 16°C and 30°C
+"Hot" if above 30°C
+
+
+
+2. Grade Determination:
+Create a program that prompts the user to enter their exam score and then determines and prints out their grade based on the following criteria:
+
+90-100: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+
+
+
+3. Movie Recommendation System:
+Develop a basic movie recommendation system. The system should:
+
+Ask the user to enter their preferred genre.
+Based on the input, recommend a movie from that genre.
+If the genre is not recognized, suggest the user try another one.
+Genres to consider: Action, Comedy, Drama, and Sci-Fi.
+
+
+
+4. Simple Calculator:
+Create a basic calculator that performs operations based on user input. The program should:
+
+Ask the user to choose an operation (addition, subtraction, multiplication, division).
+Take two numbers as input.
+Perform the selected operation and display the result.
+If an unrecognized operation is selected, inform the user.
+
+
+
+
+5. Voting Eligibility:
+Write a program to determine if a person is eligible to vote. The program should:
+
+Ask the user for their age.
+Check if the age is 18 or above.
+Print "You are eligible to vote!" if the condition is met; otherwise, print "You are not eligible to vote yet."
