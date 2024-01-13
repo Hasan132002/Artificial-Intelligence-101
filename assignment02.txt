@@ -1,0 +1,28 @@
+Loops:
+
+For Loop Iteration:
+
+Write a Python program using a for loop to print the squares of numbers from 1 to 5.
+While Loop Condition:
+
+Implement a Python program using a while loop to find the factorial of a given number. Ensure proper handling for the case when the input is zero.
+Loop Control Statements:
+
+Write a program that uses the break statement in a for loop to find the first even number in a list.
+Nested Loop Logic:
+
+Create a Python program using nested loops to print a multiplication table up to 5x5.
+Lists:
+
+List Basics:
+
+Write code to initialize an empty list, then append the numbers 1 to 5 to the list. Print the final list.
+List Operations:
+
+Implement a Python program that takes a list of numbers and creates a new list with each number squared. Print both the original and modified lists.
+List Comprehension:
+
+Rewrite the previous question using list comprehension to create a new list with squared numbers.
+List Manipulation:
+
+Write a Python function that removes duplicates from a given list while preserving the order of elements. Test the function with a sample list.
